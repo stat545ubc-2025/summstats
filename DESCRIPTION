@@ -1,0 +1,22 @@
+Package: summstats
+Title: Statistical Summary Functions for Data Analysis
+Version: 0.1.0
+Authors@R: 
+    person("Zahra", "Alipour", email = "zaralipour@gmail.com", role = c("aut", "cre"))
+Description: A collection of functions for calculating summary statistics and
+    performing data analysis tasks. This package provides utilities for
+    summarizing numeric variables in data frames, with optional grouping
+    capabilities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    dplyr,
+    magrittr,
+    rlang,
+    stats
+Suggests:
+    testthat (>= 3.0.0),
+    datateachr
+Config/testthat/edition: 3

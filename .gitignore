@@ -1,0 +1,12 @@
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+.DS_Store
+*.pdf
+*.png
+*.jpg
+man/*.Rd
+NAMESPACE
+
