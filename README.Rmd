@@ -26,7 +26,7 @@ You can install the development version of summstats from [GitHub](https://githu
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("zaralipour/summstats", ref = "0.1.0")
+devtools::install_github("stat545ubc-2025/summstats", ref = "v0.1.0")
 ```
 
 ## Example
